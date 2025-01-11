@@ -2,7 +2,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import random
 
-auth_manager = SpotifyClientCredentials('d96ad6ae8ef24fe7bc8deb0b369a7080','bd5e3ffdf8d74ec2868bdd1613cd4fd0')
+auth_manager = SpotifyClientCredentials('xxxxxxxxxx','xxxxxxxxxx')
 sp = spotipy.Spotify(auth_manager=auth_manager)
 
 # Get and show Spotipy's access token
