@@ -96,7 +96,7 @@ moodify/
    - *Epochs:* 100
    - *Batch Size:* 64
    - *Spotify API:* Used Spotipy to search playlists and retrieve track information based on emotional state.
-     ![image](https://github.com/user-attachments/assets/8c2adb8c-744e-4cd6-94f0-7c4ee1eb30a9)
+     ![Her hücre için tabloSatırı hücre aramaMetnini içeriyor](https://github.com/user-attachments/assets/61e8565e-9a3e-4926-9e25-719ae6d65803)
    - **Data:** FER-2013 Dataset
    - **Libraries:** TensorFlow, OpenCV, Spotipy, Flask, Bootstrap
 
